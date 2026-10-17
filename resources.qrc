@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>nandGate.png</file>
+        <file>norGate.png</file>
+        <file>orGate.png</file>
+        <file>andGate.png</file>
+        <file>notGate.png</file>
+        <file>xorGate.png</file>
+        <file>ArtWorkForBackgroundImage.png</file>
+        <file>DarkSolidBackgroundImage.jpeg</file>
+        <file>GridBackgroundImage.png</file>
+        <file>BitWiseTitle.png</file>
+    </qresource>
+</RCC>
